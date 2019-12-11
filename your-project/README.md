@@ -33,6 +33,8 @@ Frame your hypothesis with statistical/data languages (i.e. define Null and Alte
 * For all types of datasets, provide a description of the size, complexity, and data types included in your dataset, as well as a schema of the tables if necessary.
 * If the question cannot be answered with the available data, why not? What data would you need to answer it better?
 
+Dataset downloaded from http://archive.ics.uci.edu/ml/machine-learning-databases/00352/
+
 ## Cleaning
 Describe your full process of data wrangling and cleaning. Document why you chose to fill missing values, extract outliers, or create the variables you did as well as your reasoning behind the process.
 
