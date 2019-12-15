@@ -1,0 +1,14 @@
+df_dist = df_distance_matrix
+dist_norm = df_distance_matrix_norm
+Top5_cust200 = 	df_top5_recs_spec_customer
+similar = df_sample_similar_cust_recomms
+agg_similar = df_agg_similar_prod_ranked
+products = df_product_recomms
+Top5rec = df_top5_recomm
+recommendations = dict_recommendations
+recommendations_df = df_recommendations
+
+
+
+#Variable
+Cust_200 = test_customer
