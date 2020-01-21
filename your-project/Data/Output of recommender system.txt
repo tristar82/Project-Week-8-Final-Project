@@ -1,0 +1,16 @@
+
+The total for euclidean metric was : 389,782 for 9 months or 519,710 annualised
+
+
+
+The total for cityblock metric was : 439,160 for 9 months or 585,547 annualised
+The total for correlation metric was : 411,214 for 9 months or 548,285 annualised
+The total for cosine metric was : 411,368 for 9 months or 548,490 annualised
+
+
+The total for jaccard metric was : 411,243 for 9 months or 548,324 annualised
+
+
+The total for hamming metric was : 443,253 for 9 months or 591,004 annualised
+
+The total for dice metric was : 454,892 for 9 months or 606,522 annualised
